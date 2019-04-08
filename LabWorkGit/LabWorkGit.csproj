@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="DataManager.cs" />
     <Compile Include="DbLayer\Role.cs" />
+    <Compile Include="DbLayer\UserContext.cs" />
     <Compile Include="DbLayer\UserInRole.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
